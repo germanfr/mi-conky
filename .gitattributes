@@ -3,3 +3,5 @@
 # Binary files mustn't change line endings
 *.png binary
 
+conky.conf linguist-vendored=false
+conky.conf linguist-language=Lua
